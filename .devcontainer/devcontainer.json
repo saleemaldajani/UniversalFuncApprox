@@ -1,6 +1,6 @@
 {
     "name": "EmailCreator",
-    "image": "mcr.microsoft.com/devcontainers/universal:3",
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
     "hostRequirements": {
         "cpus": 2
     },
